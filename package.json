@@ -1,0 +1,21 @@
+{
+  "name": "@abir-john/react-button",
+  "version": "1.0.0",
+  "description": "This is my react-custom button package,it's helpfull for all react deveploper",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abir John",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.1.0"
+  },
+  "devDependencies": {
+    "react": "^18.1.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "style-components": "^0.1.0"
+  }
+}
