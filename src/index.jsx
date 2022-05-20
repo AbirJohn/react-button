@@ -74,7 +74,7 @@ const reactButton = ({label,type,variant, onclick, ...props}) =>{
         ButtonStyled = Text  
     }
 
-    return <ButtonStyled  {...props} type={type} variant={variant} onclick={onclick} >{label}</ButtonStyled>
+    return <ButtonStyled  {...props} type={type} variant={variant} onclick={onclick}>{label}</ButtonStyled>
 
 }
 
