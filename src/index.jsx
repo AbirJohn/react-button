@@ -1,9 +1,9 @@
 import React from "react";
-import styled  from 'style-components';
+import Styled  from "styled-components";
 import PropTypes from "prop-types";
 
 
-const Outlined = styled.Button`
+const Outlined = Styled.Button`
         font-size:16px;
         padding:15px;
         border:1px solid  #e0115f;
@@ -24,7 +24,7 @@ const Outlined = styled.Button`
 `;
 
 
-const Contained = styled.Button`
+const Contained = Styled.Button`
         font-size:16px;
         padding:15px;
         border:1px solid  #e0115f;
@@ -43,7 +43,7 @@ const Contained = styled.Button`
 `;
 
 
-const Text = styled.Button`
+const Text = Styled.Button`
         font-size:16px;
         padding:15px;
         border:1px solid  ##dc3545;
