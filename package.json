@@ -32,5 +32,8 @@
   "dependencies": {
     "prop-types": "^15.8.1",
     "styled-components": "^5.3.5"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
